@@ -105,6 +105,10 @@ h1 {
   color: #fff;
 }
 
+.contact-message {
+  font-family: "Montserrat"
+}
+
 /* Footer Section */
 #footer {
   background-color: #EDE6DB;
